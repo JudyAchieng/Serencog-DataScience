@@ -1,0 +1,613 @@
+household_id,county,head_gender,head_age,household_size,children_under_5,disability_member,income_source,monthly_income_ksh,water_distance_km,programme,enrolled_date
+HH0559,Kisumu,Female,64,4,0,Yes,Small business,6500,1.4,Food basket,2024-07-17
+HH0207,Marsabit,Male,53,7,1,No,Small business,5400,9.2,Cash transfer,2024-11-10
+HH0432,Nairobi,Female,34,5,1,No,Casual labour,10300,0.7,Cash transfer,2025-03-08
+HH0457,Nairobi,Male,47,5,2,Yes,No income,0,1.0,Both,2024-08-06
+HH0560,Kisumu,Male,34,8,0,No,Farming,4400,2.2,Both,2024-12-27
+HH0299,Kitui,Male,41,10,1,No,Small business,6300,7.5,Cash transfer,2025-03-05
+HH0522,Kisumu,Female,38,6,1,No,Small business,13300,1.8,Cash transfer,2024-07-05
+HH0429,kilifi,Male,56,5,2,No,Farming,8700,0.7,Cash transfer,2024-12-08
+HH0263,Kitui,Female,38,6,3,No,Farming,7400,1.3,Cash transfer,2025-01-15
+HH0018,Turkana,Female,51,3,1,No,No income,0,,Food basket,2024-12-10
+HH0237,Kitui,Female,37,5,1,No,Farming,2900,6.6,Cash transfer,2024-10-29
+HH0165,Marsabit,Male,55,6,2,No,Livestock,8200,4.9,Food basket,2025-03-26
+HH0576,Kisumu,Female,69,9,2,No,Fishing,9300,3.9,Cash transfer,2024-08-07
+HH0442,Nairobi,Female,44,7,0,Yes,Small business,15400,0.9,Cash transfer,2024-08-24
+HH0583,Kisumu,Female,,6,1,No,Farming,10700,1.9,Cash transfer,2024-12-31
+HH0350,Kilifi,Male,30,10,0,No,Farming,10000,1.0,Cash transfer,2025-01-06
+HH0562,Kisumu,Male,49,6,1,Yes,Fishing,13300,2.6,Food basket,2024-07-22
+HH0396,Kilifi,Male,63,6,0,No,Fishing,8000,4.5,Cash transfer,2024-10-06
+HH0178,Marsabit,F,34,6,0,No,No income,0,6.3,Cash transfer,2024-11-07
+HH0174,Marsabit,Male,43,6,1,No,Livestock,5300,9.9,Cash transfer,2024-10-13
+HH0163,Marsabit,Female,36,6,1,No,Small business,6500,7.8,Both,2024-10-19
+HH0138,Marsabit,Male,46,5,3,No,Livestock,2800,9.7,Cash transfer,2024-07-07
+HH0550,Kisumu,Male,49,9,1,Yes,Small business,5800,3.2,Food basket,2024-11-17
+HH0252,Kitui,Female,38,8,1,No,Small business,2100,5.3,Both,2025-01-03
+HH0065,Turkana,Female,38,5,2,No,Livestock,7300,8.2,Cash transfer,2024-07-19
+HH0260,Kitui,Female,24,4,1,No,Farming,5800,3.7,Food basket,2024-12-19
+HH0425,Kilifi ,Female,38,8,2,No,Farming,5500,4.4,Cash transfer,2025-03-18
+HH0226,Kitui,Female,35,9,3,No,Casual labour,2000,1.4,Cash transfer,2024-07-10
+HH0077,Turkana,Male,43,4,1,No,No income,0,10.6,Cash transfer,2025-03-11
+HH0045,Turkana,Female,30,7,0,No,No income,0,5.7,Cash transfer,2025-03-11
+HH0103,Turkana,Male,39,5,0,Yes,Casual labour,3000,8.4,Food basket,2024-07-17
+HH0495,Nairobi,Female,39,8,1,No,Casual labour,16900,0.5,Food basket,2024-11-05
+HH0348,Kilifi,Female,59,9,1,Yes,Casual labour,2900,,Cash transfer,2025-02-08
+HH0239,Kitui,Female,57,6,1,No,Farming,11100,2.5,Cash transfer,2025-02-08
+HH0003,Turkana,Male,,9,0,No,No income,0,8.4,Cash transfer,2024-10-25
+HH0095,Turkana,Male,36,7,1,No,No income,0,8.7,Cash transfer,2025-02-09
+HH0068,Turkana,Male,33,6,0,Yes,Casual labour,6300,11.8,Food basket,2024-11-30
+HH0100,Turkana,Female,25,4,3,No,No income,0,5.2,Cash transfer,2024-10-13
+HH0081,Turkana,male,48,5,0,No,Casual labour,7200,11.9,Cash transfer,2024-10-18
+HH0356,Kilifi,Female,29,6,3,Yes,Casual labour,10400,2.1,Cash transfer,2024-09-04
+HH0150,Marsabit,Female,49,5,1,No,Small business,5600,4.7,Cash transfer,2025-02-06
+HH0399,Kilifi,Female,47,6,1,No,Fishing,11900,3.2,Both,2025-03-11
+HH0130,Marsabit,Female,44,3,1,No,No income,0,5.6,Cash transfer,2025-02-03
+HH0340,Kilifi,Female,69,6,0,No,Farming,4200,4.6,Cash transfer,2025-03-24
+HH0353,Kilifi,Female,42,3,1,No,Farming,9400,4.9,Cash transfer,2024-07-04
+HH0561,Kisumu,Female,36,8,3,No,Fishing,7500,,Cash transfer,2024-08-31
+HH0516,Nairobi,Female,57,7,0,No,Small business,8000,0.6,Food basket,2024-12-13
+HH0512,Nairobi,Male,32,5,1,Yes,Small business,3200,0.7,Cash transfer,2024-10-21
+HH0251,Kitui,F,33,6,0,No,Farming,8200,5.7,Food basket,2024-10-22
+HH0040,Turkana,Female,43,5,1,No,Livestock,3400,3.3,Cash transfer,2024-07-31
+HH0421,Kilifi,Male,,6,1,No,Casual labour,7400,0.7,Food basket,2025-02-28
+HH0244,Kitui,Male,21,11,1,No,Farming,8500,2.8,Both,2024-08-17
+HH0476,Nairobi,Male,40,9,0,No,Small business,6900,0.8,Food basket,2025-03-15
+HH0549,Kisumu,Male,21,2,1,No,Small business,5800,0.7,Food basket,2024-09-17
+HH0465,Nairobi,Female,57,2,1,No,No income,0,0.3,Cash transfer,2025-03-06
+HH0273,Kitui,Male,32,8,2,No,Farming,2100,2.1,Food basket,2024-07-09
+HH0090,Turkana,Female,37,2,0,No,Livestock,"KSh 1,000",9.7,Cash transfer,2025-03-08
+HH0532,Kisumu,Male,47,10,1,No,Fishing,11400,3.4,Food basket,2025-03-04
+HH0507,Nairobi,Female,44,1,0,No,Small business,6300,0.2,Cash transfer,2025-01-13
+HH0166,Marsabit,Female,50,7,3,No,No income,0,2.7,Both,2025-02-28
+HH0148,Marsabit,F,49,7,2,No,Livestock,7700,3.9,Cash transfer,2024-10-05
+HH0242,Kitui,Female,42,7,0,No,Casual labour,7700,2.7,Cash transfer,2024-08-08
+HH0423,Kilifi,Female,47,6,1,No,Fishing,7700,4.3,Both,2025-03-04
+HH0420,Kilifi,M,32,9,1,No,Casual labour,2000,3.6,Food basket,2024-10-29
+HH0177,Marsabit,Male,44,4,1,No,Small business,4300,7.1,Cash transfer,2025-03-10
+HH0435,Nairobi,Female,33,5,3,Yes,Small business,15400,0.8,Cash transfer,2024-11-20
+HH0346,Kilifi,Male,42,7,1,Yes,Fishing,11500,1.3,Cash transfer,2025-03-04
+HH0462,nairobi,Female,63,1,0,No,Casual labour,3900,0.1,Cash transfer,2025-03-04
+HH0157,Marsabit,Female,55,7,0,No,No income,0,3.9,Food basket,2024-12-17
+HH0234,Kitui,Female,47,7,2,No,Casual labour,4100,6.6,Cash transfer,2024-10-15
+HH0124,Marsabit,Male,31,7,1,No,No income,0,4.1,Cash transfer,2025-01-08
+HH0005,Turkana,Male,38,4,3,No,Casual labour,6600,6.5,Cash transfer,2024-09-29
+HH0408,Kilifi,Male,,7,1,No,Fishing,8800,2.3,Cash transfer,2024-11-15
+HH0301,Kitui,Female,40,6,1,No,Small business,3200,7.9,Both,2024-08-12
+HH0394,Kilifi,Male,26,6,1,No,Fishing,2600,1.8,Food basket,2024-09-17
+HH0311,Kitui,Female,37,9,1,No,Casual labour,1500,1.7,Food basket,2024-07-08
+HH0179,Marsabit,Male,51,10,3,No,Livestock,7300,8.4,Food basket,2025-03-28
+HH0482,Nairobi,Female,30,6,0,No,Small business,19300,0.5,Cash transfer,2025-02-28
+HH0084,Turkana,Male,36,7,0,No,Livestock,6000,9.4,Cash transfer,2024-11-06
+HH0294,Kitui,Female,54,9,0,No,Casual labour,11200,,Food basket,2024-10-06
+HH0531,Kisumu,Male,36,7,1,Yes,Fishing,3700,1.7,Cash transfer,2025-02-26
+HH0075,Turkana,Female,,5,0,No,Casual labour,2000,4.2,Cash transfer,2024-11-22
+HH0248,Kitui,Female,37,7,0,No,Small business,1800,6.4,Both,2024-10-15
+HH0469,Nairobi,Female,32,5,0,No,No income,0,1.0,Food basket,2025-02-01
+HH0079,Turkana,female,28,6,1,No,No income,0,2.0,Cash transfer,2024-11-10
+HH0154,Marsabit,Male,41,6,3,No,Livestock,9900,3.7,Cash transfer,2024-12-14
+HH0168,Marsabit,F,44,6,2,No,No income,0,5.7,Cash transfer,2024-08-19
+HH0173,marsabit,Female,35,5,0,No,Small business,5800,6.3,Cash transfer,2025-02-06
+HH0405,Kilifi,Female,29,5,1,No,Farming,2200,4.7,Food basket,2024-11-16
+HH0208,Marsabit,Female,34,7,1,No,Livestock,4700,4.9,Food basket,2024-11-23
+HH0283,Kitui,Male,39,9,3,No,Casual labour,11200,3.9,Cash transfer,2024-07-11
+HH0354,Kilifi,Male,29,5,1,No,Farming,3500,1.0,Cash transfer,2025-01-22
+HH0111,Turkana,Male,32,9,3,No,Casual labour,8900,4.7,Both,2024-08-31
+HH0189,MARSABIT,Female,27,4,1,No,No income,0,7.5,Cash transfer,2024-10-29
+HH0022,Turkana,Male,34,8,1,Yes,No income,0,4.6,Cash transfer,2025-02-21
+HH0016,Turkana,Male,42,5,1,Yes,Casual labour,5400,7.8,Both,2024-07-31
+HH0210,Marsabit,Female,42,1,0,No,Livestock,2000,3.9,Cash transfer,2025-03-01
+HH0523,Kisumu,Male,30,8,1,No,Fishing,10500,1.5,Cash transfer,2024-12-25
+HH0249,Kitui,Male,45,7,0,No,Farming,2400,1.1,Food basket,2025-01-09
+HH0231,Kitui,Female,27,8,0,No,Casual labour,11400,3.7,Cash transfer,2025-02-18
+HH0161,Marsabit,Female,39,10,0,No,No income,0,7.3,Cash transfer,2024-11-30
+HH0484,Nairobi,Male,41,7,1,No,Small business,19400,0.8,Cash transfer,2024-11-11
+HH0388,Kilifi,Male,20,4,1,No,Farming,7700,4.3,Cash transfer,2024-09-06
+HH0368,Kilifi,Female,4,7,1,No,Casual labour,10000,4.4,Food basket,2024-08-19
+HH0250,Kitui,Male,49,11,0,Yes,Farming,10900,5.7,Food basket,2025-01-12
+HH0187,Marsabit,Male,42,7,0,No,Small business,6000,6.5,Both,2024-11-03
+HH0367,Kilifi ,Male,,8,1,No,Farming,4100,1.6,Cash transfer,2025-01-04
+HH0102,Turkana,Female,42,6,1,No,Casual labour,5100,6.4,Both,2024-10-10
+HH0481,Nairobi,Male,50,7,3,No,Small business,4500,0.7,Food basket,2025-03-19
+HH0581,Kisumu,Female,33,4,3,No,Small business,6500,0.8,Cash transfer,2024-10-04
+HH0434,Nairobi,Female,55,4,2,No,No income,0,0.8,Cash transfer,2025-02-08
+HH0403,Kilifi,Male,45,5,1,No,Casual labour,6600,4.5,Cash transfer,2025-01-10
+HH0477,Nairobi,Male,53,6,2,No,Small business,12000,0.7,Food basket,2024-10-09
+HH0579,Kisumu,Female,49,7,2,Yes,Farming,13200,3.1,Food basket,2024-11-25
+HH0312,Kitui,Male,50,7,0,No,Farming,7200,7.0,Both,2024-11-04
+HH0001,Turkana,Female,35,4,3,No,Livestock,7700,4.3,Cash transfer,2024-07-01
+HH0055,Turkana,Male,50,8,0,No,Livestock,8400,7.4,Cash transfer,2024-12-04
+HH0274,Kitui,Female,45,8,3,No,Farming,6400,4.5,Cash transfer,2025-01-16
+HH0202,Marsabit,M,45,2,1,No,No income,0,8.6,Cash transfer,2024-12-23
+HH0206,Marsabit,Male,31,8,1,No,No income,0,9.6,Cash transfer,2025-02-11
+HH0558,Kisumu,Male,37,7,1,No,Farming,12000,3.2,Cash transfer,2024-12-12
+HH0049,Turkana,Female,38,7,0,Yes,No income,0,2.5,Both,2024-11-06
+HH0493,Nairobi,Male,22,3,1,No,Small business,13400,0.8,Food basket,2024-07-16
+HH0422,Kilifi,Male,37,8,3,No,Farming,5200,0.6,Cash transfer,2024-07-28
+HH0266,Kitui,Female,51,8,1,No,Casual labour,4400,2.6,Cash transfer,2024-08-08
+HH0547,Kisumu ,Male,72,5,1,Yes,Farming,5800,3.4,Cash transfer,2024-11-13
+HH0464,Nairobi,Male,25,9,3,No,No income,0,0.8,Cash transfer,2024-09-17
+HH0085,Turkana,Female,64,8,1,No,Casual labour,8300,5.3,Food basket,2024-11-15
+HH0035,Turkana,Male,30,4,0,No,No income,0,10.4,Both,2024-07-10
+HH0530,Kisumu ,Female,26,9,2,No,Fishing,13700,2.3,Cash transfer,2025-03-21
+HH0335,KILIFI,Female,39,5,0,No,Casual labour,3100,3.2,Cash transfer,2024-12-02
+HH0021,Turkana,Male,18,8,2,No,Casual labour,7900,5.4,Cash transfer,2025-01-06
+HH0382,Kilifi,Male,57,6,2,No,Fishing,11100,2.9,Cash transfer,2024-09-17
+HH0318,Kitui,Female,41,5,3,No,Small business,2500,6.2,Cash transfer,2025-01-24
+HH0201,Marsabit,Female,38,6,3,No,No income,0,9.8,Food basket,2024-12-03
+HH0417,Kilifi,Female,,5,2,Yes,Farming,2300,2.2,Cash transfer,2024-10-10
+HH0506,Nairobi,F,45,5,3,No,Casual labour,10400,0.2,Both,2024-08-02
+HH0479,Nairobi,Male,,6,1,No,No income,0,0.7,Food basket,2024-08-19
+HH0050,Turkana,Female,39,6,1,No,Livestock,7800,6.7,Cash transfer,2024-11-10
+HH0227,Kitui,Female,40,4,0,No,Casual labour,7700,5.5,Cash transfer,2024-12-22
+HH0151,Marsabit,Male,57,7,1,No,Livestock,"KSh 1,000",6.7,Both,2024-09-25
+HH0582,Kisumu,Female,36,5,0,No,Farming,2500,0.6,Food basket,2025-03-28
+HH0295,Kitui,Male,26,6,3,No,Farming,7100,5.5,Cash transfer,2025-03-03
+HH0112,Turkana,Female,23,5,3,No,Livestock,6500,4.1,Cash transfer,2025-02-13
+HH0221,Kitui,Female,47,8,0,No,Small business,3200,4.6,Cash transfer,2024-11-12
+HH0370,Kilifi,M,29,6,1,No,Fishing,6800,3.6,Cash transfer,2025-03-08
+HH0459,Nairobi,Female,32,1,0,No,No income,0,0.4,Cash transfer,2024-11-20
+HH0293,Kitui,Female,40,4,1,No,Farming,2900,6.8,Cash transfer,2024-11-10
+HH0365,Kilifi,Female,24,7,0,No,Farming,1700,1.8,Cash transfer,2024-11-29
+HH0566,Kisumu,Male,26,4,2,Yes,Small business,2400,1.0,Cash transfer,2024-09-27
+HH0590,Kisumu,Male,31,7,2,No,Farming,14400,2.1,Cash transfer,2025-01-14
+HH0098,Turkana,Female,31,6,0,No,Livestock,7200,8.7,Cash transfer,2024-09-06
+HH0331,Kilifi,Male,31,1,0,No,Fishing,9700,2.4,Cash transfer,2025-01-13
+HH0345,Kilifi,Male,33,6,2,No,Farming,7800,1.8,Both,2024-09-04
+HH0078,Turkana,Female,43,8,2,No,Livestock,6000,9.2,Both,2024-09-27
+HH0458,Nairobi,M,,6,0,No,Small business,4100,0.5,Cash transfer,2024-08-29
+HH0268,Kitui,Male,28,4,2,No,Farming,6700,4.4,Cash transfer,2024-11-30
+HH0246,Kitui,Female,30,3,2,No,Casual labour,4300,4.2,Cash transfer,2024-12-06
+HH0544,Kisumu,Male,58,3,2,Yes,Fishing,7800,3.6,Both,2025-02-22
+HH0541,Kisumu,Female,52,6,1,Yes,Fishing,2700,0.7,Both,2024-09-16
+HH0518,Nairobi,Female,78,5,0,No,Casual labour,10100,0.4,Food basket,2024-11-18
+HH0083,Turkana ,Female,47,7,0,No,Casual labour,3000,9.8,Cash transfer,2025-02-16
+HH0282,Kitui,Female,32,7,0,No,Small business,8400,2.5,Food basket,2025-03-12
+HH0280,Kitui,Female,36,7,2,Yes,Farming,7000,4.4,Cash transfer,2024-11-09
+HH0407,Kilifi ,Male,53,7,3,No,Casual labour,3200,2.8,Food basket,2024-09-25
+HH0386,Kilifi,Female,21,5,2,No,Farming,2800,2.6,Cash transfer,2024-09-26
+HH0437,Nairobi,Female,48,7,3,No,Small business,11400,0.4,Cash transfer,2025-03-01
+HH0315,Kitui,Female,37,6,2,No,Small business,3300,6.9,Cash transfer,2024-09-03
+HH0091,Turkana,Male,35,4,3,No,No income,0,3.2,Cash transfer,2024-11-27
+HH0296,Kitui,Male,46,4,3,No,Casual labour,7400,3.2,Cash transfer,2024-09-29
+HH0392,Kilifi,Female,36,2,1,Yes,Casual labour,9600,3.6,Food basket,2025-02-08
+HH0152,Marsabit,Male,33,8,1,No,No income,0,8.1,Cash transfer,2024-08-02
+HH0379,Kilifi,Female,37,5,0,No,Fishing,11300,4.3,Food basket,2024-07-07
+HH0317,Kitui,Female,48,4,1,No,Farming,6300,7.5,Cash transfer,2024-10-06
+HH0256,Kitui,F,36,6,0,No,Casual labour,8100,4.1,Cash transfer,2025-03-17
+HH0122,Marsabit,Male,40,7,1,No,Small business,8500,2.9,Food basket,2024-12-04
+HH0225,Kitui,Male,28,6,0,No,Casual labour,9000,5.8,Cash transfer,2024-12-27
+HH0426,Kilifi,Female,57,4,2,No,Farming,11300,1.0,Food basket,2024-07-04
+HH0236,Kitui,Male,43,8,2,No,Casual labour,6500,6.7,Cash transfer,2024-07-21
+HH0249,Kitui,Male,45,7,0,No,Farming,2400,1.1,Food basket,2025-01-09
+HH0349,Kilifi,female,48,8,1,No,Fishing,11900,4.1,Cash transfer,2025-02-02
+HH0235,Kitui,Female,42,4,1,No,Farming,9700,2.1,Cash transfer,2025-02-05
+HH0200,Marsabit,Male,18,8,2,Yes,Small business,9000,8.1,Cash transfer,2024-12-13
+HH0447,Nairobi,Female,,4,2,No,No income,0,0.7,Food basket,2024-07-11
+HH0369,kilifi,Female,47,8,3,No,Casual labour,2900,2.0,Food basket,2024-10-21
+HH0543,Kisumu,Male,33,3,0,No,Farming,3200,2.3,Both,2024-08-25
+HH0289,Kitui,Female,45,3,2,No,Farming,4700,7.0,Food basket,2024-11-23
+HH0229,Kitui,Male,19,7,1,No,Farming,"KSh 11,100",7.8,Cash transfer,2024-10-03
+HH0061,Turkana,Female,55,7,0,No,Casual labour,4100,,Cash transfer,2025-03-24
+HH0192,Marsabit,Female,42,2,1,No,Livestock,3500,2.4,Food basket,2024-08-01
+HH0029,Turkana,Female,25,7,1,No,Livestock,2700,9.6,Food basket,2024-07-05
+HH0158,Marsabit,Female,39,5,1,Yes,No income,0,7.4,Both,2024-07-29
+HH0097,Turkana,Female,47,8,0,No,No income,0,6.0,Cash transfer,2024-10-14
+HH0041,Turkana,Female,47,7,3,No,No income,0,5.1,Cash transfer,2025-02-06
+HH0290,Kitui,Female,49,4,1,No,Farming,10900,6.7,Cash transfer,2024-10-14
+HH0521,Kisumu,Male,62,7,2,No,Farming,2600,0.3,Food basket,2024-11-11
+HH0182,Marsabit,Male,48,6,2,Yes,Livestock,3300,6.8,Food basket,2024-07-05
+HH0453,Nairobi,Male,42,6,3,No,No income,0,0.7,Cash transfer,2025-01-01
+HH0385,Kilifi,Female,18,5,1,No,Casual labour,10600,2.0,Both,2025-03-25
+HH0545,Kisumu,Male,55,7,0,Yes,Farming,10200,2.8,Cash transfer,2025-03-18
+HH0006,Turkana,Male,45,6,2,No,No income,0,10.4,Cash transfer,2024-07-15
+HH0439,Nairobi,Male,43,2,1,No,No income,0,0.8,Cash transfer,2024-09-27
+HH0170,Marsabit,Male,41,6,3,No,Livestock,2800,8.5,Cash transfer,2024-10-24
+HH0498,Nairobi,Male,48,4,3,No,Small business,5600,0.8,Cash transfer,2024-10-24
+HH0338,Kilifi,Female,30,8,2,No,Farming,6000,2.7,Cash transfer,2025-03-01
+HH0298,Kitui,M,61,10,0,No,Small business,3000,2.6,Cash transfer,2024-10-10
+HH0513,Nairobi,Female,38,1,0,No,No income,0,0.5,Cash transfer,2024-10-27
+HH0598,Kisumu,F,44,5,0,Yes,Fishing,3600,2.4,Both,2024-10-11
+HH0519,Nairobi,Female,52,5,0,No,Casual labour,4100,0.5,Cash transfer,2025-03-20
+HH0113,turkana,Female,40,5,2,No,Casual labour,2000,2.8,Cash transfer,2024-10-21
+HH0510,Nrb,Female,28,6,1,No,Small business,18700,0.7,Cash transfer,2024-11-25
+HH0410,Kilifi,Female,41,4,1,No,Casual labour,2600,4.6,Cash transfer,2024-08-14
+HH0184,Marsabit,Male,54,8,1,No,No income,0,3.7,Food basket,2025-03-25
+HH0110,Turkana,Female,30,2,1,No,No income,0,4.0,Food basket,2025-01-12
+HH0086,Turkana,M,20,7,0,No,No income,0,4.8,Cash transfer,2024-07-08
+HH0188,Marsabit,Male,46,6,0,Yes,No income,0,5.6,Food basket,2025-02-23
+HH0448,Nairobi,F,48,4,1,No,Small business,7600,0.4,Both,2024-12-29
+HH0580,Kisumu,Male,41,2,1,No,Fishing,10800,,Cash transfer,2025-01-25
+HH0014,Turkana,Male,41,7,3,No,No income,0,5.3,Both,2025-02-04
+HH0212,Kitui ,Female,51,3,1,No,Small business,10000,5.9,Cash transfer,2025-03-15
+HH0599,Kisumu,Male,19,5,1,No,Fishing,9500,3.7,Cash transfer,2024-10-29
+HH0553,Kisumu,Male,52,6,0,No,Fishing,14400,3.4,Cash transfer,2024-07-30
+HH0415,Kilifi ,Male,64,7,2,No,Fishing,3100,1.8,Food basket,2024-09-17
+HH0094,Turkana,F,39,9,3,Yes,No income,0,6.5,Cash transfer,2024-11-18
+HH0333,Kilifi,Female,44,9,0,No,Casual labour,6900,2.7,Cash transfer,2024-08-19
+HH0233,Kitui,Male,45,3,2,No,Casual labour,10300,2.4,Cash transfer,2025-03-24
+HH0418,Kilifi,F,58,3,1,No,Fishing,7700,4.6,Cash transfer,2025-01-12
+HH0160,Marsabit,Male,39,7,3,No,Livestock,8700,8.7,Both,2025-02-08
+HH0404,Kilifi,Male,59,6,0,No,Casual labour,11500,1.1,Cash transfer,2024-08-21
+HH0142,Marsabit,Male,58,5,0,No,Livestock,2600,4.1,Food basket,2025-03-07
+HH0487,Nairobi,Male,24,5,1,No,Small business,20000,0.8,Cash transfer,2024-07-01
+HH0536,Kisumu,Female,49,7,1,No,Small business,4700,3.8,Food basket,2024-11-21
+HH0595,Kisumu,Male,23,9,3,No,Fishing,11700,1.2,Cash transfer,2024-09-05
+HH0195,Marsabit,Male,46,4,1,No,Small business,9800,6.7,Cash transfer,2024-07-13
+HH0149,Marsabit,Male,45,3,1,No,Small business,7200,7.4,Cash transfer,2025-01-28
+HH0502,Nairobi,Female,27,7,3,No,Casual labour,13600,0.8,Food basket,2024-11-19
+HH0538,Kisumu,Female,37,6,0,No,Small business,2400,0.9,Food basket,2024-09-22
+HH0306,kitui,Female,36,8,2,No,Casual labour,10900,1.8,Cash transfer,2025-01-01
+HH0127,Marsabit,Female,,6,1,No,No income,0,4.7,Food basket,2024-10-03
+HH0230,Kitui,Female,58,8,0,No,Farming,3500,2.3,Food basket,2024-09-14
+HH0180,Marsabit,Female,49,0,2,No,Livestock,2600,,Cash transfer,2024-08-09
+HH0143,Marsabit,Female,33,5,1,No,Small business,4400,7.9,Cash transfer,2025-01-20
+HH0313,Kitui,Female,61,7,1,Yes,Farming,6600,4.8,Cash transfer,2024-09-11
+HH0565,Kisumu,Female,18,11,1,No,Small business,9100,0.6,Cash transfer,2024-11-06
+HH0351,Kilifi,Male,45,5,1,No,Casual labour,"KSh 4,500",4.3,Both,2025-03-10
+HH0116,Turkana,Female,50,7,3,No,Casual labour,1300,5.8,Cash transfer,2024-10-16
+HH0494,Nairobi,Female,47,4,0,No,Small business,7100,0.4,Both,2024-09-23
+HH0406,Kilifi,Male,48,5,2,No,Fishing,8500,3.9,Both,2024-07-03
+HH0436,Nairobi,Male,53,2,1,No,Casual labour,9700,0.1,Cash transfer,2024-08-04
+HH0023,Turkana,Female,41,6,2,Yes,Casual labour,4200,9.2,Cash transfer,2024-07-24
+HH0010,Turkana,Female,18,9,1,No,Casual labour,7500,11.4,Cash transfer,2024-07-06
+HH0245,Kitui,Female,40,6,2,No,Farming,9400,4.6,Food basket,2024-12-16
+HH0137,Marsabit,Female,39,6,1,No,Livestock,8300,9.4,Food basket,2025-02-13
+HH0328,Kilifi,Male,53,5,0,No,Fishing,9000,2.9,Cash transfer,2024-08-08
+HH0193,Marsabit,F,31,7,1,No,Small business,7000,4.9,Cash transfer,2024-07-29
+HH0524,Kisumu,Female,43,6,1,No,Farming,12400,3.2,Both,2024-08-24
+HH0262,Kitui,Female,29,7,2,Yes,Small business,5200,3.2,Cash transfer,2025-02-18
+HH0572,Kisumu,Male,26,6,3,No,Fishing,3300,3.2,Cash transfer,2024-09-03
+HH0591,Kisumu,F,52,9,2,No,Fishing,14600,0.6,Cash transfer,2025-01-22
+HH0026,Turkana,Female,18,2,1,No,No income,0,10.2,Cash transfer,2024-11-21
+HH0499,Nairobi,Male,57,5,1,No,Small business,13600,0.4,Food basket,2024-11-15
+HH0376,Kilifi,Female,54,9,1,No,Casual labour,11100,2.8,Cash transfer,2025-01-16
+HH0185,Marsabit,Male,52,5,2,No,No income,0,7.2,Food basket,2025-02-11
+HH0046,Turkana,Male,56,8,0,No,No income,0,5.6,Cash transfer,2024-11-27
+HH0327,Kilifi,Female,46,5,0,No,Casual labour,4600,0.7,Both,2024-12-19
+HH0483,Nairobi,Female,,7,1,No,No income,0,1.0,Cash transfer,2024-12-08
+HH0033,Turkana,Male,47,7,1,No,Livestock,5300,9.0,Cash transfer,2024-12-02
+HH0211,Kitui,Female,36,10,0,No,Casual labour,6000,4.4,Both,2024-09-30
+HH0486,NAIROBI,Female,60,4,2,No,Casual labour,6800,0.3,Both,2025-03-18
+HH0597,Kisumu,Male,36,6,1,No,Fishing,13800,2.9,Cash transfer,2024-12-27
+HH0123,Marsabit,Female,30,7,2,No,Small business,2200,3.5,Cash transfer,2025-03-15
+HH0129,Marsabit,Female,35,4,1,No,Small business,8100,,Cash transfer,2024-12-04
+HH0400,Kilifi,Female,43,5,2,Yes,Fishing,2600,1.3,Cash transfer,2024-10-11
+HH0412,Kilifi,Female,35,4,1,No,Farming,3500,4.1,Cash transfer,2025-01-04
+HH0492,Nairobi,Male,54,2,1,No,Small business,17500,0.2,Cash transfer,2024-08-24
+HH0066,Turkana,female,48,7,1,No,Casual labour,4900,5.5,Cash transfer,2024-08-06
+HH0305,Kitui,Female,44,7,2,No,Casual labour,4900,7.5,Both,2024-11-10
+HH0320,Kitui,Male,46,0,2,No,Casual labour,7400,1.6,Cash transfer,2025-03-07
+HH0292,Kitui,Male,63,6,2,No,Small business,11100,2.6,Food basket,2025-01-23
+HH0171,MARSABIT,Female,26,9,1,No,Small business,8400,8.2,Cash transfer,2025-01-29
+HH0362,Kilifi,Male,32,7,2,Yes,Casual labour,7300,2.2,Food basket,2025-01-02
+HH0261,Kitui,Female,38,6,1,No,Farming,2800,3.0,Cash transfer,2025-03-10
+HH0172,Marsabit,Female,46,10,2,No,No income,0,8.4,Food basket,2024-11-21
+HH0243,Kitui,Female,45,10,2,No,Small business,10700,6.7,Cash transfer,2024-09-06
+HH0209,Marsabit,Male,34,5,0,No,Small business,5800,7.0,Both,2025-01-21
+HH0438,Nairobi,Female,29,4,1,No,Small business,18400,1.0,Cash transfer,2024-08-08
+HH0440,Nairobi,Female,39,1,0,No,No income,0,1.0,Cash transfer,2024-08-15
+HH0219,Kitui,Female,54,9,1,No,Casual labour,4800,2.4,Cash transfer,2024-09-17
+HH0381,Kilifi,Female,30,4,3,No,Fishing,10000,0.9,Cash transfer,2024-08-08
+HH0307,Kitui,Male,26,9,2,No,Farming,9200,5.9,Both,2024-12-28
+HH0017,Turkana,Female,24,2,1,Yes,Livestock,4300,,Food basket,2024-11-15
+HH0008,Turkana,Female,37,4,1,No,Livestock,5400,5.4,Cash transfer,2024-09-17
+HH0498,Nairobi,Male,48,4,3,No,Small business,5600,0.8,Cash transfer,2024-10-24
+HH0183,Marsabit,female,20,8,0,No,Livestock,3200,4.4,Both,2024-12-23
+HH0071,Turkana,Female,32,12,0,No,Casual labour,1800,7.1,Cash transfer,2025-01-22
+HH0330,Kilifi,Male,,7,0,No,Farming,6900,3.8,Food basket,2024-07-18
+HH0034,Turkana,F,44,4,0,Yes,Casual labour,5100,3.7,Cash transfer,2025-02-16
+HH0302,Kitui,male,45,5,0,No,Small business,8700,7.1,Food basket,2024-11-01
+HH0269,Kitui,Male,42,10,1,No,Farming,9900,3.3,Cash transfer,2024-11-01
+HH0278,Kitui,F,47,6,2,No,Small business,7700,5.3,Cash transfer,2025-03-12
+HH0126,Marsabit,Female,43,9,0,No,No income,0,4.4,Food basket,2024-11-15
+HH0485,Nairobi,Male,47,5,0,Yes,No income,0,0.2,Cash transfer,2024-10-22
+HH0511,Nairobi,Female,54,4,1,No,Casual labour,"KSh 6,300",0.7,Cash transfer,2025-03-02
+HH0145,Marsabit,Female,32,4,3,No,Small business,1200,2.8,Cash transfer,2025-01-31
+HH0341,Kilifi,Female,23,9,3,No,Casual labour,4900,2.7,Food basket,2024-10-27
+HH0444,Nairobi,Female,52,4,2,No,Casual labour,5200,0.8,Cash transfer,2025-03-24
+HH0291,Kitui,Female,33,3,0,No,Small business,11500,4.8,Cash transfer,2025-03-24
+HH0525,Kisumu,M,33,8,3,No,Small business,14200,1.1,Cash transfer,2025-02-20
+HH0551,Kisumu,Male,66,4,0,No,Fishing,5100,0.4,Cash transfer,2024-12-21
+HH0460,Nairobi,Female,,3,2,No,Small business,17500,0.4,Both,2024-07-12
+HH0109,Turkana,Male,29,4,2,No,No income,0,3.8,Cash transfer,2024-08-28
+HH0131,Marsabit,Female,28,8,3,No,No income,0,6.0,Cash transfer,2024-09-24
+HH0247,Kitui,Female,26,6,1,No,Casual labour,11400,2.0,Cash transfer,2024-10-03
+HH0473,Nairobi,Male,48,5,0,No,No income,0,0.3,Cash transfer,2024-10-04
+HH0357,Kilifi,Female,50,4,1,No,Casual labour,1500,2.0,Food basket,2024-12-23
+HH0380,Kilifi,Male,50,4,0,No,Farming,10700,2.6,Cash transfer,2024-09-14
+HH0332,Kilifi ,Male,56,4,1,No,Fishing,8400,3.1,Food basket,2025-01-08
+HH0413,Kilifi,Male,21,9,0,No,Casual labour,7300,3.9,Cash transfer,2024-08-21
+HH0258,Kitui,Female,999,7,1,No,Casual labour,5300,,Food basket,2024-11-01
+HH0528,Kisumu,F,35,3,1,No,Small business,13600,1.7,Cash transfer,2024-12-06
+HH0072,Turkana,female,47,7,0,No,Casual labour,7700,4.1,Food basket,2024-08-25
+HH0031,turkana,Female,50,5,2,No,Casual labour,4100,8.2,Cash transfer,2024-09-24
+HH0496,Nairobi,Female,40,5,3,No,No income,0,0.3,Cash transfer,2024-12-11
+HH0389,Kilifi,Female,,8,0,No,Fishing,8800,3.9,Cash transfer,2024-12-19
+HH0133,Marsabit,Male,39,7,2,No,Small business,1100,5.0,Cash transfer,2024-10-05
+HH0556,Kisumu,Female,50,3,2,No,Farming,7500,2.8,Food basket,2024-10-10
+HH0063,Turkana,Male,33,2,1,No,Casual labour,2500,6.0,Cash transfer,2024-11-09
+HH0275,Kitui,Male,53,5,1,No,Casual labour,7700,1.7,Both,2024-11-22
+HH0056,Turkana,Female,47,2,1,No,No income,0,8.8,Cash transfer,2024-08-23
+HH0600,Kisumu,Female,59,4,2,No,Small business,14800,3.6,Both,2024-10-10
+HH0575,Kisumu,Male,39,4,1,No,Fishing,8200,3.1,Both,2024-09-27
+HH0089,Turkana,Female,45,6,1,No,Casual labour,8400,10.3,Cash transfer,2024-09-22
+HH0529,Kisumu,Male,52,6,1,Yes,Small business,"KSh 14,500",2.8,Both,2025-01-16
+HH0322,Kilifi,Male,67,5,3,No,Casual labour,7500,1.2,Cash transfer,2025-01-10
+HH0363,Kilifi,Male,46,7,2,No,Fishing,9100,0.5,Cash transfer,2025-03-03
+HH0253,Kitui,Female,44,6,2,No,Farming,8300,6.5,Food basket,2024-08-20
+HH0276,Kitui,male,50,5,1,No,Small business,4800,2.6,Both,2025-03-05
+HH0534,Kisumu,Female,52,6,2,No,Fishing,8400,1.0,Cash transfer,2024-11-23
+HH0054,Turkana,Female,47,5,3,No,Livestock,8900,2.4,Food basket,2025-01-12
+HH0540,Kisumu,male,44,4,2,No,Farming,6700,1.6,Cash transfer,2024-10-02
+HH0059,Turkana,Female,25,10,2,Yes,No income,0,9.0,Food basket,2024-10-15
+HH0574,Kisumu,Male,36,3,2,No,Fishing,12000,3.7,Cash transfer,2024-11-14
+HH0176,Marsabit,Male,59,4,2,No,Livestock,1000,7.7,Cash transfer,2024-11-20
+HH0051,Turkana,Female,35,8,1,No,Casual labour,"KSh 4,100",6.1,Food basket,2024-09-07
+HH0503,Nairobi,F,53,6,2,No,Small business,16400,0.2,Food basket,2025-03-23
+HH0375,Kilifi,Female,32,7,1,No,Fishing,2700,3.2,Both,2025-03-07
+HH0222,Kitui,Female,55,6,1,No,Farming,8700,7.4,Cash transfer,2024-08-25
+HH0119,Turkana,F,66,7,1,No,Casual labour,6000,2.9,Both,2025-02-05
+HH0309,Kitui,F,32,7,2,Yes,Casual labour,10200,2.2,Cash transfer,2024-08-12
+HH0238,Kitui,Female,65,4,1,Yes,Casual labour,11800,7.1,Cash transfer,2024-11-17
+HH0015,Turkana,Female,35,5,1,No,Casual labour,"KSh 2,400",8.5,Both,2024-12-19
+HH0480,Nairobi,Female,52,6,2,No,Casual labour,12800,0.2,Both,2024-11-06
+HH0347,Kilifi,Male,56,5,2,No,Farming,4700,4.7,Cash transfer,2024-07-24
+HH0411,Kilifi,Female,78,4,2,Yes,Farming,3000,1.5,Cash transfer,2025-03-05
+HH0144,Marsabit,Female,52,7,0,Yes,Small business,2100,9.7,Cash transfer,2024-09-01
+HH0240,Kitui,Female,49,6,1,No,Farming,4900,2.4,Cash transfer,2024-08-21
+HH0358,Kilifi,Female,28,8,0,No,Fishing,10300,4.0,Cash transfer,2025-02-18
+HH0241,Kitui,Female,28,7,1,No,Small business,5800,3.1,Cash transfer,2025-02-24
+HH0377,Kilifi,Male,53,4,2,No,Fishing,7700,1.4,Cash transfer,2025-01-27
+HH0555,Kisumu ,Female,57,4,1,No,Fishing,12100,0.6,Both,2025-02-02
+HH0030,Turkana,Male,38,5,0,Yes,Livestock,8100,,Food basket,2024-09-17
+HH0285,Kitui,Male,,8,1,Yes,Farming,12000,6.8,Cash transfer,2024-08-31
+HH0374,Kilifi ,Female,29,9,1,No,Farming,2700,0.6,Both,2024-09-22
+HH0329,Kilifi,M,29,5,1,No,Fishing,5900,2.8,Cash transfer,2024-09-04
+HH0488,Nairobi,Male,40,7,3,No,Casual labour,6700,0.8,Cash transfer,2025-01-01
+HH0064,Turkana,female,49,4,0,No,Livestock,7900,5.4,Food basket,2025-02-14
+HH0199,Marsabit,Male,61,3,2,No,Livestock,"KSh 9,100",5.5,Food basket,2025-03-18
+HH0053,Turkana,Female,27,6,2,No,Casual labour,6100,7.4,Cash transfer,2024-10-10
+HH0520,Nairobi,Male,39,7,0,No,Casual labour,5200,0.9,Cash transfer,2025-02-01
+HH0135,Marsabit,M,38,7,1,Yes,Small business,9000,9.4,Cash transfer,2024-12-04
+HH0371,Kilifi ,Male,56,8,1,No,Farming,6100,1.5,Cash transfer,2024-08-27
+HH0336,Kilifi,Female,45,6,0,No,Farming,11200,1.9,Cash transfer,2024-07-01
+HH0497,Nairobi,Female,45,5,2,No,Casual labour,3400,0.6,Cash transfer,2024-07-04
+HH0139,Marsabit,Male,30,5,0,No,Small business,8200,5.5,Both,2024-07-04
+HH0531,Kisumu,Male,36,7,1,Yes,Fishing,3700,1.7,Cash transfer,2025-02-26
+HH0472,Nairobi,Male,49,5,0,No,Casual labour,15900,0.4,Food basket,2024-09-01
+HH0255,Kitui,Female,42,8,0,No,Small business,7800,3.7,Both,2025-03-06
+HH0076,Turkana,Male,39,12,2,No,Livestock,8900,6.1,Cash transfer,2024-09-20
+HH0027,Turkana,Female,,10,1,No,Casual labour,9000,10.2,Cash transfer,2024-10-20
+HH0433,Nairobi,Male,,2,1,No,No income,0,0.5,Cash transfer,2024-11-13
+HH0106,Turkana,Female,33,4,1,No,No income,0,4.8,Cash transfer,2024-07-14
+HH0099,Turkana,Male,29,4,2,No,No income,0,5.1,Cash transfer,2025-02-26
+HH0304,Kitui,Male,43,6,1,No,Casual labour,4100,4.9,Cash transfer,2024-12-01
+HH0220,Kitui,Female,46,4,3,No,Casual labour,11900,2.5,Both,2024-11-06
+HH0319,Kitui,Male,,6,3,No,Casual labour,11700,2.3,Cash transfer,2024-11-11
+HH0132,Marsabit,Female,41,5,1,No,Small business,8100,9.6,Cash transfer,2024-10-25
+HH0515,Nairobi,Female,44,4,0,No,No income,0,0.5,Cash transfer,2024-12-03
+HH0325,Kilifi,Male,37,7,0,No,Casual labour,10600,0.5,Cash transfer,2024-07-31
+HH0588,Kisumu,Male,27,7,0,No,Small business,2200,3.7,Food basket,2025-03-13
+HH0019,Turkana,Female,42,7,0,No,No income,0,9.0,Cash transfer,2025-02-24
+HH0526,Kisumu,Female,40,6,0,No,Fishing,6000,2.0,Cash transfer,2024-08-18
+HH0025,Turkana,Male,36,5,0,No,No income,0,3.8,Cash transfer,2025-03-13
+HH0361,Kilifi,Male,27,3,1,No,Fishing,3900,2.2,Food basket,2025-03-24
+HH0339,Kilifi,Male,46,2,1,No,Fishing,1900,2.8,Both,2024-08-30
+HH0508,Nairobi,Female,56,4,1,No,Casual labour,4700,0.2,Cash transfer,2025-03-06
+HH0578,Kisumu,Female,38,7,2,No,Fishing,4400,,Cash transfer,2024-10-18
+HH0585,Kisumu,Female,25,3,1,No,Farming,2900,0.6,Cash transfer,2024-08-23
+HH0501,Nairobi,Female,57,4,1,No,Casual labour,14700,0.4,Cash transfer,2024-11-07
+HH0191,Marsabit,F,50,4,2,No,No income,0,9.3,Cash transfer,2025-02-20
+HH0205,Marsabit,female,48,8,1,No,Livestock,2900,8.8,Cash transfer,2024-09-22
+HH0490,Nairobi,Female,52,5,2,No,Small business,15100,0.3,Cash transfer,2024-11-20
+HH0087,Turkana,Female,37,5,3,No,Livestock,2600,10.4,Food basket,2024-10-13
+HH0140,Marsabit,Female,54,3,0,No,Small business,8300,6.7,Cash transfer,2024-10-28
+HH0569,Kisumu,Male,40,7,2,No,Farming,10000,1.1,Cash transfer,2024-09-30
+HH0216,Kitui,Female,39,8,2,No,Casual labour,3500,4.7,Cash transfer,2024-11-28
+HH0136,Marsabit,Female,44,8,1,No,Livestock,7800,7.9,Food basket,2024-09-02
+HH0570,Kisumu,Male,59,8,1,Yes,Fishing,11300,1.2,Cash transfer,2024-08-11
+HH0324,Kilifi,Male,53,6,1,No,Fishing,9200,1.8,Food basket,2024-07-10
+HH0232,Kitui,Female,51,7,1,No,Farming,11100,7.4,Cash transfer,2024-07-21
+HH0468,Nairobi,Female,54,3,1,No,No income,0,1.0,Cash transfer,2024-12-09
+HH0270,kitui,Female,38,4,0,No,Casual labour,2700,2.6,Food basket,2024-09-03
+HH0387,Kilifi,Male,27,4,0,No,Casual labour,11800,2.1,Cash transfer,2024-12-29
+HH0398,Kilifi,Female,50,5,1,No,Farming,7700,1.1,Cash transfer,2025-03-04
+HH0323,Kilifi,Male,38,6,0,No,Farming,3400,1.5,Cash transfer,2025-02-24
+HH0215,Kitui,Female,45,5,0,No,Farming,7400,7.4,Cash transfer,2025-03-02
+HH0181,Marsabit,female,47,7,0,No,Livestock,4600,2.8,Food basket,2024-08-07
+HH0391,Kilifi,F,63,6,1,No,Farming,10500,1.0,Cash transfer,2024-11-14
+HH0279,Kitui,Female,44,7,2,No,Farming,6900,4.6,Cash transfer,2024-08-22
+HH0069,Turkana,Male,39,4,0,No,Casual labour,2000,6.8,Cash transfer,2024-09-08
+HH0271,Kitui,Female,32,4,2,No,Farming,5700,6.3,Cash transfer,2024-12-05
+HH0316,kitui,Male,40,4,2,No,Casual labour,6000,6.8,Food basket,2024-11-07
+HH0416,Kilifi,Female,46,5,0,No,Casual labour,3000,1.4,Both,2025-02-12
+HH0478,Nairobi,male,21,6,3,Yes,Casual labour,6800,0.8,Cash transfer,2024-11-10
+HH0125,Marsabit,Female,31,8,2,No,Small business,6300,3.9,Food basket,2024-09-09
+HH0196,Marsabit,Female,37,9,2,Yes,Livestock,4300,9.4,Food basket,2025-02-04
+HH0096,Turkana,Female,29,4,2,No,Livestock,8000,2.7,Food basket,2025-03-14
+HH0107,Turkana,Female,,7,2,Yes,Livestock,9000,2.6,Cash transfer,2024-07-17
+HH0286,Kitui,Male,38,8,1,No,Casual labour,10800,5.9,Cash transfer,2024-07-16
+HH0456,Nairobi,Female,59,7,0,Yes,Casual labour,20000,0.7,Cash transfer,2025-01-13
+HH0186,Marsabit,Male,46,6,1,No,Small business,7800,5.9,Cash transfer,2024-10-13
+HH0409,Kilifi,Female,49,5,1,No,Casual labour,6800,4.1,Cash transfer,2025-02-20
+HH0546,Kisumu,Female,28,8,1,No,Farming,7900,0.8,Cash transfer,2024-11-14
+HH0444,Nairobi,Female,52,4,2,No,Casual labour,5200,0.8,Cash transfer,2025-03-24
+HH0568,Kisumu,Male,47,7,3,No,Small business,2000,3.5,Both,2024-08-19
+HH0214,Kitui,Female,46,7,0,No,Casual labour,10400,3.3,Both,2024-12-24
+HH0474,Nairobi,Female,,2,0,Yes,No income,0,0.4,Cash transfer,2024-09-09
+HH0039,Turkana,female,31,6,0,No,Livestock,3700,10.3,Cash transfer,2024-12-11
+HH0267,Kitui,Female,30,7,0,No,Small business,6700,5.0,Cash transfer,2024-08-27
+HH0463,nairobi,F,36,4,3,No,No income,0,0.1,Cash transfer,2025-01-15
+HH0455,Nairobi,Female,18,3,1,No,Small business,14400,0.7,Cash transfer,2024-10-21
+HH0321,Kilifi,Female,25,6,1,No,Farming,10400,4.3,Cash transfer,2024-07-31
+HH0326,Kilifi,Male,38,4,1,Yes,Casual labour,4100,1.7,Food basket,2025-03-13
+HH0108,Turkana,Male,54,8,1,No,Casual labour,4500,6.5,Cash transfer,2024-10-17
+HH0134,Marsabit,Female,55,4,1,No,Small business,5600,5.8,Food basket,2024-11-26
+HH0011,Turkana,Male,34,7,2,No,Casual labour,2700,11.5,Cash transfer,2024-12-11
+HH0288,Kitui,Female,28,7,1,No,Casual labour,5000,5.0,Cash transfer,2024-10-05
+HH0470,Nairobi,Female,36,5,2,No,Casual labour,15500,0.9,Cash transfer,2025-02-22
+HH0213,Kitui,Female,59,9,2,No,Casual labour,11500,5.7,Both,2024-09-17
+HH0360,Kilifi,Male,38,7,3,No,Casual labour,5300,2.2,Food basket,2024-12-11
+HH0517,Nairobi,male,63,6,1,No,No income,0,0.4,Cash transfer,2024-12-08
+HH0287,Kitui,Male,32,6,2,No,Small business,2600,,Food basket,2024-12-20
+HH0352,Kilifi ,Female,44,5,0,No,Farming,11500,3.1,Cash transfer,2024-08-12
+HH0593,Kisumu,Male,34,5,2,Yes,Farming,7900,0.4,Cash transfer,2024-08-14
+HH0564,Kisumu,Male,51,4,0,No,Fishing,4700,2.0,Cash transfer,2024-09-18
+HH0082,Turkana,Female,31,7,0,No,Casual labour,8700,7.4,Cash transfer,2024-12-20
+HH0057,Turkana,F,38,5,2,No,Livestock,6500,8.8,Cash transfer,2024-12-05
+HH0052,Turkana,Female,44,5,1,No,Casual labour,8400,7.2,Cash transfer,2025-03-10
+HH0147,Marsabit,Male,37,3,2,No,Small business,1400,7.3,Cash transfer,2024-07-09
+HH0310,Kitui,Male,51,5,2,No,Small business,2900,5.9,Cash transfer,2025-02-13
+HH0535,Kisumu,Male,,7,1,No,Farming,6800,2.5,Cash transfer,2024-12-01
+HH0265,Kitui,Female,45,5,0,No,Farming,8400,3.0,Cash transfer,2024-10-27
+HH0228,Kitui,M,19,5,1,No,Farming,10700,3.7,Cash transfer,2024-07-23
+HH0217,Kitui,Female,35,6,0,No,Farming,1800,2.1,Both,2024-07-09
+HH0419,Kilifi,Female,35,6,3,No,Farming,5200,0.9,Cash transfer,2024-09-28
+HH0062,Turkana,female,43,6,0,No,Casual labour,2300,9.4,Cash transfer,2024-12-20
+HH0496,Nairobi,Female,40,5,3,No,No income,0,0.3,Cash transfer,2024-12-11
+HH0366,Kilifi,Female,54,7,1,No,Casual labour,11600,3.2,Cash transfer,2025-01-08
+HH0527,Kisumu,Female,50,5,2,No,Farming,4700,1.1,Both,2024-09-29
+HH0427,Kilifi,Female,49,8,3,No,Farming,6900,1.5,Food basket,2024-11-01
+HH0007,Turkana,Female,58,7,1,Yes,Livestock,4500,3.5,Cash transfer,2024-12-17
+HH0401,Kilifi,Female,24,6,0,No,Casual labour,1700,2.2,Food basket,2024-10-19
+HH0092,Turkana,Male,51,7,1,Yes,Casual labour,7600,9.8,Food basket,2024-12-30
+HH0101,turkana,Female,39,4,0,No,Livestock,4500,3.1,Cash transfer,2025-01-01
+HH0514,Nairobi,Male,48,6,1,No,No income,0,0.3,Food basket,2024-11-08
+HH0505,Nairobi,Female,34,3,1,No,Small business,6000,0.8,Food basket,2024-08-16
+HH0264,Kitui,Female,19,4,1,No,Small business,6300,8.0,Cash transfer,2024-08-25
+HH0428,kilifi,Male,35,8,1,No,Farming,"KSh 2,600",4.3,Cash transfer,2025-02-06
+HH0424,Kilifi,Female,41,5,2,No,Casual labour,11000,3.8,Food basket,2024-07-26
+HH0384,kilifi,Male,71,6,0,No,Casual labour,7300,2.6,Cash transfer,2024-10-03
+HH0115,Turkana,Female,18,11,2,Yes,Casual labour,5100,10.5,Food basket,2025-01-23
+HH0441,NAIROBI,Female,40,2,1,No,Casual labour,13200,1.0,Cash transfer,2024-09-20
+HH0073,Turkana,Female,,3,1,Yes,No income,0,4.3,Cash transfer,2024-12-02
+HH0254,Kitui,Female,53,9,3,No,Small business,10200,7.8,Food basket,2025-02-18
+HH0114,Turkana,M,,3,2,Yes,Livestock,1400,7.3,Cash transfer,2024-12-09
+HH0393,Kilifi,M,18,8,1,No,Fishing,5400,1.6,Cash transfer,2024-09-06
+HH0542,Kisumu,Female,34,7,0,No,Fishing,13200,2.2,Cash transfer,2024-09-09
+HH0060,Turkana,Female,46,7,2,Yes,Livestock,2500,4.1,Cash transfer,2024-07-02
+HH0594,Kisumu,F,37,8,0,No,Fishing,3100,3.7,Food basket,2024-08-08
+HH0197,Marsabit,Male,46,7,1,No,No income,0,6.3,Cash transfer,2024-08-12
+HH0074,Turkana,Female,61,8,3,No,Casual labour,6600,8.3,Both,2024-12-13
+HH0117,TURKANA,Male,39,5,0,No,No income,0,6.0,Both,2025-02-10
+HH0088,Turkana,Female,24,7,0,No,No income,0,6.6,Cash transfer,2024-07-21
+HH0044,Turkana,Female,40,7,1,Yes,Casual labour,"KSh 6,300",10.1,Food basket,2024-09-10
+HH0337,Kilifi,Male,50,5,2,No,Casual labour,4400,2.6,Cash transfer,2024-12-20
+HH0500,Nairobi,Female,39,4,0,Yes,No income,0,0.3,Cash transfer,2025-03-12
+HH0043,Turkana,Male,22,8,1,No,No income,0,2.4,Cash transfer,2024-10-11
+HH0120,Turkana,Female,50,9,0,No,Casual labour,8800,4.9,Food basket,2025-03-08
+HH0491,Nairobi,M,38,2,1,No,Casual labour,9800,0.5,Cash transfer,2024-07-14
+HH0257,Kitui,Male,36,7,1,No,Casual labour,3100,1.2,Cash transfer,2024-09-30
+HH0573,Kisumu,Male,19,8,1,No,Fishing,6600,2.3,Cash transfer,2025-02-18
+HH0093,TURKANA,Male,41,5,0,No,No income,0,9.8,Both,2024-11-13
+HH0461,Nairobi,Male,35,4,1,No,Small business,8100,0.5,Food basket,2025-02-24
+HH0156,Marsabit,Male,19,4,2,Yes,No income,0,2.5,Food basket,2024-09-14
+HH0224,Kitui,Female,56,5,2,No,Small business,2000,1.4,Cash transfer,2024-10-17
+HH0402,Kilifi,Female,35,6,1,No,Fishing,7600,4.4,Cash transfer,2024-09-30
+HH0012,Turkana,Female,33,4,1,No,Livestock,7500,10.0,Both,2024-09-17
+HH0204,marsabit,Female,55,7,3,No,Small business,8900,6.6,Food basket,2024-09-02
+HH0277,Kitui,Female,41,7,3,Yes,Farming,3000,6.5,Both,2024-12-01
+HH0383,Kilifi,Female,46,9,3,Yes,Farming,11600,0.9,Cash transfer,2024-07-24
+HH0272,Kitui,Female,23,9,1,No,Farming,9400,6.1,Cash transfer,2024-07-07
+HH0557,Kisumu,Female,51,5,1,No,Small business,11900,0.4,Both,2024-08-16
+HH0048,Turkana,Male,30,5,2,No,No income,0,8.7,Food basket,2025-01-09
+HH0203,Marsabit,male,37,5,2,No,Small business,"KSh 1,200",4.8,Cash transfer,2025-02-16
+HH0355,Kilifi,Female,41,7,1,No,Farming,2200,2.6,Both,2025-03-12
+HH0489,Nairobi,Female,46,9,1,No,Small business,12500,1.0,Cash transfer,2024-10-12
+HH0343,Kilifi,Female,20,7,0,No,Fishing,11800,4.2,Cash transfer,2024-08-14
+HH0454,Nairobi,Female,54,5,3,No,Small business,6200,0.9,Cash transfer,2025-02-05
+HH0281,Kitui,Female,46,4,0,No,Small business,9900,5.8,Cash transfer,2025-03-26
+HH0153,Marsabit,female,25,7,2,No,Small business,6600,4.5,Cash transfer,2024-09-09
+HH0537,Kisumu,Male,39,8,0,No,Fishing,7300,1.1,Both,2024-11-07
+HH0070,Turkana,Male,43,3,2,No,Livestock,2000,4.1,Cash transfer,2024-11-04
+HH0020,Turkana,Male,21,8,2,No,Casual labour,6300,9.8,Cash transfer,2024-07-26
+HH0190,Marsabit,Female,39,6,2,No,No income,0,5.9,Food basket,2025-02-04
+HH0571,kisumu,Male,46,6,2,No,Fishing,3700,3.6,Cash transfer,2024-07-15
+HH0036,Turkana,Female,62,5,1,No,Casual labour,2700,11.0,Both,2024-07-03
+HH0104,Turkana,Female,36,10,3,Yes,Casual labour,1400,11.6,Food basket,2025-03-06
+HH0303,Kitui,Female,30,7,2,No,Farming,3300,4.4,Cash transfer,2025-01-23
+HH0155,Marsabit,Female,33,8,3,Yes,Small business,9400,3.1,Cash transfer,2024-10-28
+HH0342,Kilifi,Female,18,9,2,Yes,Fishing,8500,4.5,Food basket,2024-11-14
+HH0194,Marsabit,Male,62,8,2,No,Livestock,5600,3.7,Cash transfer,2024-12-11
+HH0584,Kisumu,Male,41,9,2,No,Farming,6700,3.6,Cash transfer,2024-08-28
+HH0466,Nairobi,Male,47,1,0,Yes,No income,0,0.2,Cash transfer,2024-08-14
+HH0445,Nairobi,Female,37,6,3,No,Casual labour,14500,0.8,Both,2024-09-23
+HH0443,Nairobi,Female,42,7,1,No,Casual labour,8800,0.5,Cash transfer,2024-07-24
+HH0414,Kilifi,Male,58,6,0,No,Farming,3600,4.4,Cash transfer,2025-01-07
+HH0164,Marsabit,Male,50,5,3,No,Small business,1800,5.7,Cash transfer,2024-08-13
+HH0548,Kisumu,Male,36,4,3,No,Farming,9100,2.6,Cash transfer,2025-02-20
+HH0028,Turkana,Female,34,7,0,No,Livestock,4800,3.5,Cash transfer,2024-09-08
+HH0592,Kisumu,Male,31,4,1,No,Small business,4900,3.9,Cash transfer,2024-10-25
+HH0218,Kitui,Female,30,6,3,No,Casual labour,11600,1.4,Food basket,2025-01-02
+HH0080,turkana,Female,55,7,1,No,No income,0,3.6,Food basket,2024-09-03
+HH0372,Kilifi,Female,30,6,0,Yes,Casual labour,8000,3.0,Cash transfer,2024-10-16
+HH0395,Kilifi,Female,24,6,1,No,Farming,6500,4.0,Cash transfer,2024-08-09
+HH0223,Kitui,F,26,4,1,Yes,Small business,7500,2.2,Cash transfer,2025-03-18
+HH0539,Kisumu,Male,54,6,1,No,Farming,2600,0.6,Food basket,2024-11-03
+HH0577,Kisumu,Male,32,9,1,No,Small business,9400,3.2,Cash transfer,2024-12-30
+HH0450,Nairobi,female,4,1,0,No,No income,0,0.8,Both,2024-10-02
+HH0390,Kilifi,Female,38,8,1,No,Farming,9000,1.8,Food basket,2024-11-27
+HH0042,Turkana,Female,39,8,0,No,Casual labour,4900,8.9,Cash transfer,2024-11-02
+HH0004,Turkana,Female,65,4,0,No,No income,0,,Cash transfer,2024-10-10
+HH0430,Kilifi,Female,46,3,2,No,Fishing,4600,3.5,Cash transfer,2025-01-04
+HH0587,kisumu,Male,61,10,0,No,Fishing,12600,1.4,Food basket,2024-08-01
+HH0563,Kisumu,Female,44,4,2,No,Small business,4400,3.9,Food basket,2025-03-20
+HH0058,Turkana,Male,23,3,0,No,Casual labour,5400,5.6,Food basket,2024-09-24
+HH0378,Kilifi,Female,84,6,2,No,Casual labour,10900,3.3,Cash transfer,2024-11-30
+HH0567,Kisumu,Female,18,6,1,Yes,Small business,5900,0.7,Cash transfer,2024-08-07
+HH0024,Turkana,Male,39,6,2,No,No income,0,10.5,Cash transfer,2024-12-17
+HH0159,Marsabit,Male,21,7,0,Yes,Small business,8000,8.0,Cash transfer,2024-10-10
+HH0198,Marsabit,Male,77,7,0,No,Livestock,7500,7.5,Cash transfer,2024-08-03
+HH0475,Nairobi,Female,,1,0,No,No income,0,0.2,Cash transfer,2024-07-14
+HH0533,Kisumu,female,48,5,1,Yes,Small business,11600,2.6,Cash transfer,2025-02-03
+HH0121,Marsabit,Female,28,5,2,No,Small business,7000,5.5,Cash transfer,2024-11-19
+HH0118,Turkana,Female,33,3,2,No,No income,0,9.1,Both,2024-11-06
+HH0169,Marsabit,Male,63,6,1,No,Livestock,3100,2.4,Cash transfer,2025-01-01
+HH0449,Nairobi,Female,63,3,2,No,No income,0,0.4,Cash transfer,2024-09-24
+HH0452,Nairobi ,Male,40,8,1,No,No income,0,0.6,Cash transfer,2025-02-20
+HH0586,Kisumu,Male,37,6,0,No,Farming,11100,2.0,Cash transfer,2024-09-12
+HH0146,Marsabit,Female,37,5,1,No,Small business,2400,5.6,Food basket,2024-12-28
+HH0002,Turkana,Female,44,6,1,Yes,Casual labour,2200,7.1,Both,2025-01-27
+HH0509,Nairobi,Female,65,3,2,No,Casual labour,12700,0.4,Food basket,2024-12-07
+HH0105,Turkana,Female,26,7,2,No,No income,0,5.7,Cash transfer,2024-07-15
+HH0267,Kitui,Female,30,7,0,No,Small business,6700,5.0,Cash transfer,2024-08-27
+HH0013,Turkana,Female,28,5,0,No,Casual labour,7600,4.6,Cash transfer,2024-12-30
+HH0300,Kitui,Female,45,4,0,No,Small business,5100,7.7,Cash transfer,2024-09-09
+HH0454,Nairobi,Female,54,5,3,No,Small business,6200,0.9,Cash transfer,2025-02-05
+HH0540,Kisumu,male,44,4,2,No,Farming,6700,1.6,Cash transfer,2024-10-02
+HH0471,Nairobi,Male,67,6,2,No,Casual labour,17300,0.3,Cash transfer,2024-08-25
+HH0364,Kilifi,Female,29,9,0,No,Casual labour,11000,4.9,Cash transfer,2024-07-10
+HH0431,Nairobi,Male,24,4,2,No,Small business,16900,0.7,Food basket,2025-03-17
+HH0359,Kilifi,Female,42,5,2,Yes,Fishing,"KSh 8,300",2.2,Cash transfer,2024-08-26
+HH0032,Turkana,M,39,5,1,No,No income,0,8.3,Both,2025-02-25
+HH0344,Kilifi,Male,30,6,2,Yes,Fishing,2300,1.9,Both,2024-07-03
+HH0373,Kilifi,Female,52,3,2,No,Farming,1800,2.0,Cash transfer,2024-08-24
+HH0334,Kilifi,Female,,5,1,No,Farming,7600,4.2,Cash transfer,2024-09-14
+HH0009,Turkana,Female,45,6,2,No,No income,0,3.4,Cash transfer,2024-07-17
+HH0284,Kitui,Male,43,9,0,No,Casual labour,7900,7.3,Cash transfer,2025-03-11
+HH0067,Turkana,Female,30,5,2,Yes,Casual labour,9000,7.8,Cash transfer,2024-08-09
+HH0314,Kitui,Male,56,9,1,No,Casual labour,7300,7.4,Cash transfer,2024-11-04
+HH0446,Nairobi,Female,,4,0,Yes,Casual labour,9200,0.9,Food basket,2024-10-19
+HH0037,Turkana,Female,,4,2,No,No income,0,10.9,Food basket,2024-09-07
+HH0397,Kilifi,Female,45,2,0,No,Farming,2000,4.9,Cash transfer,2024-08-12
+HH0297,Kitui,Female,33,8,2,No,Small business,6400,3.9,Food basket,2024-08-29
+HH0162,Marsabit,Male,58,7,2,No,Small business,7200,5.7,Cash transfer,2024-09-04
+HH0308,Kitui,Male,32,6,1,No,Casual labour,1500,3.3,Cash transfer,2024-07-17
+HH0047,Turkana,Female,34,7,2,Yes,No income,0,6.2,Cash transfer,2024-07-05
+HH0038,Turkana,Female,32,5,1,No,Livestock,8900,3.9,Cash transfer,2024-08-31
+HH0552,Kisumu,Female,34,8,1,Yes,Farming,6800,3.6,Cash transfer,2024-12-04
+HH0167,Marsabit,F,45,6,1,No,Livestock,"KSh 5,300",9.8,Cash transfer,2024-11-11
+HH0554,Kisumu,Male,27,6,1,No,Fishing,7400,0.7,Cash transfer,2025-03-19
+HH0312,Kitui,Male,50,7,0,No,Farming,7200,7.0,Both,2024-11-04
+HH0589,Kisumu,Female,36,3,0,Yes,Small business,2300,2.9,Food basket,2025-03-11
+HH0382,Kilifi,Male,57,6,2,No,Fishing,11100,2.9,Cash transfer,2024-09-17
+HH0451,Nairobi ,male,21,3,2,No,No income,0,0.2,Cash transfer,2024-08-05
+HH0259,Kitui,Female,28,6,0,Yes,Farming,4000,4.6,Food basket,2025-02-07
+HH0199,Marsabit,Male,61,3,2,No,Livestock,"KSh 9,100",5.5,Food basket,2025-03-18
+HH0141,Marsabit,Female,34,7,0,No,Small business,9000,9.3,Cash transfer,2024-07-06
+HH0534,Kisumu,Female,52,6,2,No,Fishing,8400,1.0,Cash transfer,2024-11-23
+HH0596,Kisumu,male,36,5,0,No,Farming,7300,0.9,Cash transfer,2024-10-27
+HH0504,Nairobi,Male,41,4,2,No,Small business,8500,0.7,Both,2025-02-05
+HH0467,Nairobi,Female,56,2,1,No,No income,0,0.9,Food basket,2025-01-27
+HH0128,Marsabit,Female,42,5,1,No,Livestock,1500,5.7,Cash transfer,2025-02-21
+HH0175,Marsabit,Male,46,6,0,Yes,Small business,3700,6.5,Cash transfer,2024-12-21
